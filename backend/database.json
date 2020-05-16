@@ -1,0 +1,275 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Yeh Jawaani Hai Deewani",
+      "description": "Kabir, a guy who wants to make it big in the travel industry, meets Naina during a trekking trip. She falls for him but refrains from expressing it. Years later they meet at a friend's wedding.",
+      "director": "Ayan Mukerji",
+      "amount": 700,
+      "cast": "Ranbir Kapoor as Kabir 'Bunny' Thapar; Deepika Padukone as Naina Talwar, a nerdy topper who falls for Bunny; Aditya Roy Kapur as Avinash 'Avi' Arora, Bunny and Aditi's best friend; Kalki Koechlin as Aditi Mehra, Taran Khanna's wife; Kunaal Roy Kapur as Taran Khanna, Aditi's husband",
+      "imdbRatings": 7.1,
+      "yearOfRelease": 2013,
+      "image": "../../../assets/images/movie1.jpg",
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "releaseDate": "31 May 2013",
+      "quantity": 50,
+      "soldout_qty": 0,
+      "category": "Movie",
+      "trailer": "https://www.youtube.com/embed/JaGcvrl3V5I"
+    },
+    {
+      "id": 2,
+      "name": "Zindagi Na Milegi Dobara",
+      "description": "Friends Kabir, Imran and Arjun take a vacation in Spain before Kabir's marriage. The trip turns into an opportunity to mend fences, heal wounds, fall in love with life and combat their worst fears.",
+      "director": "Zoya Akhtar",
+      "amount": 425,
+      "cast": "Hrithik Roshan as Arjun Saluja; Abhay Deol as Kabir Dewan; Farhan Akhtar as Imran Qureshi; Katrina Kaif as Laila; Kalki Koechlin as Natasha Arora; Ariadna Cabrol as Nuria;  Naseeruddin Shah as Salman Habib; Deepti Naval as Rahila Qureshi; Suhel Seth as Natasha's father.",
+      "imdbRatings": 8.1,
+      "yearOfRelease": 2011,
+      "image": "../../../assets/images/movie2.jpg",
+      "genre": [
+        "Drama",
+        "Adventure"
+      ],
+      "releaseDate": "15 July 2011",
+      "quantity": 21,
+      "soldout_qty": 0,
+      "category": "Movie",
+      "trailer": "https://www.youtube.com/embed/bQR_bxragHk"
+    },
+    {
+      "id": 3,
+      "name": "Avengers: Infinity War",
+      "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe. ... The mad titan Thanos (Josh Brolin) begins his hunt for the most powerful objects in the universe, the Infinity Stones, in this movie",
+      "director": "Joe Russo, Anthony Russo",
+      "amount": 736,
+      "cast": "Robert Downey Jr. as Tony Stark / Iron Man; Chris Hemsworth as Thor; Mark Ruffalo as Bruce Banner / Hulk; Chris Evans as Steve Rogers / Captain America; Scarlett Johansson as Natasha Romanoff / Black Widow; Benedict Cumberbatch as Dr. Stephen Strange; Don Cheadle as James Rhodes / War Machine;",
+      "imdbRatings": 8.5,
+      "yearOfRelease": 2018,
+      "image": "../../../assets/images/movie3.jfif",
+      "genre": [
+        "Action"
+      ],
+      "releaseDate": "27 April 2018",
+      "quantity": 9,
+      "soldout_qty": 0,
+      "category": "Movie",
+      "trailer": "https://www.youtube.com/embed/WUJdiX-9wtM"
+    },
+    {
+      "id": 4,
+      "name": "3 Idiots",
+      "description": "Starring Aamir Khan, Madhavan, Sharman Joshi, Kareena Kapoor Khan, Boman Irani and Omi Vaidya, the film follows the friendship of three students at an Indian engineering college and is a satire about the social pressures under an Indian education system.",
+      "director": "Rajkumar Hirani",
+      "amount": 800,
+      "cast": "Aamir Khan as Ranchoddas Rancho Shamaldas Chanchad; Madhavan as Farhan Qureshi; Sharman Joshi as Raju Rastogi; Kareena Kapoor as Pia Sahastrabuddhe; Boman Irani as Dr. Viru Sahastrabuddhe; Omi Vaidya as Chatur Ramalingam;",
+      "imdbRatings": 9,
+      "yearOfRelease": 2009,
+      "image": "../../../assets/images/movie4.jpg",
+      "genre": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "releaseDate": "25 December 2009",
+      "quantity": 45,
+      "soldout_qty": 0,
+      "category": "Movie",
+      "trailer": "https://www.youtube.com/embed/xvszmNXdM4w"
+    },
+    {
+      "id": 5,
+      "name": "Avengers: Endgame",
+      "description": "After Thanos, an intergalactic warlord, disintegrates half of the universe, the Avengers must reunite and assemble again to reinvigorate their trounced allies and restore balance.",
+      "director": "Joe Russo, Anthony Russo",
+      "amount": 540,
+      "cast": "Robert Downey Jr. Chris Evans as Steve Rogers / Captain America; Mark Ruffalo as Bruce Banner / Hulk; Chris Hemsworth as Thor; Scarlett Johansson as Natasha Romanoff / Black Widow; Jeremy Renner as Clint Barton / Hawkeye; Don Cheadle as James  Rhodes / War Machine; Paul Rudd as Scott Lang / Ant-Man;",
+      "imdbRatings": 8.4,
+      "yearOfRelease": 2019,
+      "image": "../../../assets/images/movie5.jpg",
+      "genre": [
+        "Action"
+      ],
+      "releaseDate": "26 April 2019",
+      "quantity": 45,
+      "soldout_qty": 0,
+      "category": "Movie",
+      "trailer": "https://www.youtube.com/embed/NQvgsIgs56g"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "name": "She swiped right into my heart",
+      "description": "The story revolves around the life of three college students - Geet (the unpopular one), Shibani (darling of the college) and Rudra (the unanimous choice among girls). Geet and Shibani are close friends.",
+      "writer": "Sudeep Nagarkar",
+      "amount": 450,
+      "goodreadsRatings": 8.5,
+      "image": "../../../assets/images/book1.jpg",
+      "genre": [
+        "Drama",
+        "Romance",
+        "Novel"
+      ],
+      "releaseDate": "15 May 2016",
+      "quantity": 13,
+      "soldout_qty": 5,
+      "category": "Book",
+      "yearOfRelease": 2016,
+      "preview": "https://read.amazon.in/nc/?kcrFree=only&asin=B077MPRQH4",
+      "pages": "652",
+      "isAdded": "true"
+    },
+    {
+      "id": 2,
+      "name": "You're the password to my life",
+      "description": "You're the Password to My Life is the heartwarming story of Virat and Kavya. Although both of them do not share common interests and have starkly different personalities, Virat and Kavya are best friends. While Virat is reserved and shy, Kavya likes to live on the edge and take chances in life.",
+      "writer": "Sudeep Nagarkar",
+      "amount": 360,
+      "goodreadsRatings": 7.6,
+      "image": "../../../assets/images/book2.jfif",
+      "genre": [
+        "Drama",
+        "Romance",
+        "Novel"
+      ],
+      "releaseDate": "29 November 2014",
+      "quantity": 17,
+      "soldout_qty": 2,
+      "category": "Book",
+      "yearOfRelease": 2014,
+      "preview": "https://read.amazon.in/nc/?kcrFree=only&asin=B077MPRQH4",
+      "pages": "568"
+    },
+    {
+      "id": 3,
+      "name": "Girl in room 105",
+      "description": "The Girl in Room 105 is the eighth novel and the tenth book overall written by the Indian author Chetan Bhagat. The book became a bestseller based on prearranged sales alone. It tells about a IIT coaching class tutor who goes to wish his ex-girlfriend on her birthday and finds her murdered.",
+      "writer": "Chetan Bhagat",
+      "amount": 270,
+      "goodreadsRatings": 9,
+      "image": "../../../assets/images/book3.jfif",
+      "genre": [
+        "Mystrey",
+        "Suspence",
+        "Novel"
+      ],
+      "releaseDate": "29 April 2018",
+      "quantity": 22,
+      "soldout_qty": 7,
+      "category": "Book",
+      "yearOfRelease": 2018,
+      "preview": "https://read.amazon.in/nc/?kcrFree=only&asin=B077MPRQH4",
+      "pages": "841"
+    },
+    {
+      "id": 4,
+      "name": "3 mistakes of my life",
+      "description": "The 3 Mistakes of my life is the third novel written by eminent Indian Author Chetan Bhagat. ... Revolving around three young Indian boys Omi, Ishaan and Govind, the book goes on to narrate how the three are trying their best to make ends meet in the city.",
+      "writer": "Chetan Bhagat",
+      "amount": 531,
+      "goodreadsRatings": 8.4,
+      "image": "../../../assets/images/book4.jpg",
+      "genre": [
+        "Novel",
+        "Fiction"
+      ],
+      "releaseDate": "29 April 2018",
+      "quantity": 22,
+      "soldout_qty": 7,
+      "category": "Book",
+      "yearOfRelease": 2018,
+      "preview": "https://read.amazon.in/nc/?kcrFree=only&asin=B077MPRQH4",
+      "pages": "841"
+    },
+    {
+      "id": 5,
+      "name": "If it's not forever",
+      "description": "If It's Not Forever is a novel by Durjoy Datta. It was published in the year 2012 by Grapevine India Publishers. It is set on the story of the 2011 Delhi High Court blasts. Though mentioned as a love story, it is more of a suspense thriller.",
+      "writer": "Durjoy Datta",
+      "amount": 485,
+      "goodreadsRatings": 6.2,
+      "image": "../../../assets/images/book5.jfif",
+      "genre": [
+        "Novel",
+        "Fiction",
+        "Suspence",
+        "Thriller"
+      ],
+      "releaseDate": "14 February 2012",
+      "quantity": 36,
+      "soldout_qty": 4,
+      "category": "Book",
+      "yearOfRelease": 2012,
+      "preview": "https://read.amazon.in/nc/?kcrFree=only&asin=B077MPRQH4",
+      "pages": "761"
+    }
+  ],
+  "cart": [
+    {
+      "productId": 2,
+      "category": "Movie",
+      "cartQuantity": 3,
+      "id": 1
+    }
+  ],
+  "wishlist": [
+    {
+      "productId": 1,
+      "category": "Book",
+      "ipAddress": "157.32.190.224",
+      "id": 1
+    },
+    {
+      "productId": 2,
+      "category": "Book",
+      "ipAddress": "157.32.190.224",
+      "id": 2
+    },
+    {
+      "productId": 4,
+      "category": "Book",
+      "ipAddress": "157.32.190.224",
+      "id": 4
+    },
+    {
+      "productId": 5,
+      "category": "Book",
+      "ipAddress": "157.32.190.224",
+      "id": 5
+    },
+    {
+      "productId": 1,
+      "category": "Movie",
+      "ipAddress": "157.32.190.224",
+      "id": 6
+    },
+    {
+      "productId": 2,
+      "category": "Movie",
+      "ipAddress": "157.32.190.224",
+      "id": 7
+    },
+    {
+      "productId": 3,
+      "category": "Movie",
+      "ipAddress": "157.32.190.224",
+      "id": 8
+    },
+    {
+      "productId": 4,
+      "category": "Movie",
+      "ipAddress": "157.32.190.224",
+      "id": 9
+    },
+    {
+      "productId": 5,
+      "category": "Movie",
+      "ipAddress": "157.32.190.224",
+      "id": 10
+    }
+  ]
+}
